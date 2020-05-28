@@ -1,6 +1,6 @@
 # Udacity Project 2: Deploy a highly available wep application using Cloudformation
 
-Project 2 of the udacity nanodegree Cloud DevOps Engineering. In this project a high availability web application called udagram is deployed. An application user enters through load balancer ![Dns](http://udagr-webap-1i7v37x6363rm-439324185.us-west-2.elb.amazonaws.com/).
+Project 2 of the udacity nanodegree Cloud DevOps Engineering. In this project a high availability web application called udagram is deployed. An application user enters through load balancer [Dns](http://udagr-webap-1i7v37x6363rm-439324185.us-west-2.elb.amazonaws.com/).
 
 ## Architecture
 
